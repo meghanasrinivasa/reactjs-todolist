@@ -9,3 +9,11 @@ Command to get the boilerplate and crete app
 ```
  npm create vite@latest reactjs-todolist;
 ```
+
+To Run first install all the packages and run
+
+```
+npm install
+npm run dev
+```
+
